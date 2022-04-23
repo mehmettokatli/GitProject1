@@ -8,6 +8,7 @@ public class Hello {
         System.out.println("Doing more work");
         //System.out.println("ÇALIŞMA");
         System.out.println("DENEME");
+        System.out.println("KONTROL1");
 
 
 
