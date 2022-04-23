@@ -9,6 +9,7 @@ public class Hello {
         //System.out.println("ÇALIŞMA");
         System.out.println("DENEME");
         System.out.println("KONTROL1");
+        System.out.println("KONTROL2");
 
 
 
