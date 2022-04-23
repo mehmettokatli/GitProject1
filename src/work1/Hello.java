@@ -11,7 +11,7 @@ public class Hello {
         System.out.println("KONTROL1");
         System.out.println("KONTROL2");
         //KONTROL3
-
+        System.out.println("KONTROL3");
 
 
 
