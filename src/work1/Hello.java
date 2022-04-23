@@ -7,7 +7,7 @@ public class Hello {
         System.out.println("Made few commits");
         System.out.println("Doing more work");
         //System.out.println("ÇALIŞMA");
-
+        System.out.println("DENEME");
 
 
 
