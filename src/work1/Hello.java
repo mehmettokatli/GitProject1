@@ -10,7 +10,7 @@ public class Hello {
         System.out.println("DENEME");
         System.out.println("KONTROL1");
         System.out.println("KONTROL2");
-
+        //KONTROL3
 
 
 
